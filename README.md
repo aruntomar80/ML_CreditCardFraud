@@ -1,2 +1,2 @@
-# ML_CreditCardFraud
+# Machine Learning
 Machine learning algorithm for credit card fraud
